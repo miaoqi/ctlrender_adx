@@ -1,0 +1,51 @@
+Cmake build system
+
+  Kimball Thurston
+  Ken Boreham
+
+
+CTL Language
+
+  Developers:
+  -----------
+
+  Florian Kainz <kainz@ilm.com>
+  Andrew Kunz <akunz@ilm.com>
+
+  Contributors:
+  -------------
+
+  Fred Pighin
+  Francesco Callari
+  Richard Patterson
+  Joseph Goldstone
+  Ken Boreham
+  Tom Dilligan
+  John Hurst
+
+
+OpenEXR_CTL
+
+  Developers:
+  -----------
+
+  Florian Kainz <kainz@ilm.com>
+  Andrew Kunz <akunz@ilm.com>
+
+  Contributors:
+  -------------
+
+
+ctlrender
+
+  Developers:
+  -----------
+  
+  Tom Dilligan
+  Ken Boreham
+  
+  Contributors:
+  -------------
+  
+  Bill Elswick
+  
